@@ -23,9 +23,12 @@ Pull requests are welcome!
 
 - [`cyber.page`](https://cyber.page/)
 
+## Clients
+
+- [`cyb`](https://cyb.ai/) - web3 Browser
+- [`cyberd CLI`](https://github.com/cybercongress/go-cyber/blob/master/docs/ultimate-commands-guide.md) - CLI client
+
 ## Extensions
 
 - [`cyb~Virus`](https://github.com/cybercongress/cyb-virus) - The virus is a Chrome extension made to #fuckgoogle right in Chrome
 - [`cyb~Snap`](https://github.com/cybercongress/cyb-snap) - cyb~Snap will allow integrations for almost all Cosmos based chains and act as a multi-chain wallet, just like metamask is for ETH.
-
-Donation: https://cyber.page/network/euler/contract/cyber1pjvkddp4fmx8ym5j7s7su8kn3zuqj255f2369q
