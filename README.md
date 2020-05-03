@@ -32,6 +32,10 @@ Pull requests are welcome!
 - [`Gitcoin`](https://gitcoin.co/profile/cybercongress)
 - [`Youtube cyber~Academy`](https://www.youtube.com/channel/UCXgkFmGLhUcXSTp6d4cWEvg/featured)
 
+## Community
+
+- [`cyber~Russian community`](https://cyber.cipherdogs.net/), [`cyber~Russian community (Telegram)`](https://t.me/cyber_russian_community)
+
 ## Search
 
 - [`cyber.page`](https://cyber.page/)
