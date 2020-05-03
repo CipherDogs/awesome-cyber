@@ -43,7 +43,8 @@ Pull requests are welcome!
 
 ## Extensions
 
-- [`cyb~Virus`](https://github.com/cybercongress/cyb-virus) - The virus is a Chrome extension made to #fuckgoogle right in Chrome
+- [`cyb~Virus Chrome`](https://github.com/cybercongress/cyb-virus) - The virus is a Chrome extension made to #fuckgoogle right in Chrome
+- [`cyb~Virus Firefox`](https://github.com/CipherDogs/cyb-virus) - The virus is a Chrome extension made to #fuckgoogle right in Firefox
 - [`cyb~Snap`](https://github.com/cybercongress/cyb-snap) - cyb~Snap will allow integrations for almost all Cosmos based chains and act as a multi-chain wallet, just like metamask is for ETH.
 
 ## DAOs
