@@ -24,13 +24,16 @@ Pull requests are welcome!
 
 ## Social
 
-- [`GitHub`](https://github.com/cybercongress)
+- [`GitHub`](https://github.com/cybercongress) - A place for the code, docs and communication
 - [`Twitter`](https://twitter.com/cyber_devs)
 - [`Telegram`](https://t.me/fuckgoogle)
 - [`Telegram channel`](https://t.me/cybercongress)
 - [`Reddit`](https://www.reddit.com/r/cybercongress/)
 - [`Gitcoin`](https://gitcoin.co/profile/cybercongress)
 - [`Youtube cyber~Academy`](https://www.youtube.com/channel/UCXgkFmGLhUcXSTp6d4cWEvg/featured)
+- [`fuckgoogle RIOT`](https://riot.im/app/#/room/#fuckgoogle:matrix.org)
+- [`Steemit`](https://steemit.com/@cybercongress)
+- [`Forklog hub`](https://hub.forklog.com/companies/cyber/)
 
 ## Community
 
@@ -38,7 +41,7 @@ Pull requests are welcome!
 
 ## Search
 
-- [`cyber.page`](https://cyber.page/)
+- [`cyber.page`](https://cyber.page/) - The main interface and reference to cyber
 
 ## Clients
 
