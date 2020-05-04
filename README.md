@@ -24,7 +24,7 @@ Pull requests are welcome!
 
 ## Social
 
-- [`GitHub`](https://github.com/cybercongress) - A place for the code, docs and communication
+- [`GitHub`](https://github.com/cybercongress)
 - [`Twitter`](https://twitter.com/cyber_devs)
 - [`Telegram`](https://t.me/fuckgoogle)
 - [`Telegram channel`](https://t.me/cybercongress)
@@ -57,4 +57,4 @@ Pull requests are welcome!
 ## DAOs
 
 - [`cyber~Foundation 1`](https://mainnet.aragon.org/#/eulerfoundation/0xfc3849b9711f69ddb677facff0cd6755a981a1f0/), [`cyber~Foundation 2`](https://github.com/cybercongress/cyber-foundation)
-- [`cyber~Congress 1`](https://mainnet.aragon.org/#/cybercongress/0x606d9835c14617458e48530b1ed4b450c7ed9386/), - [`cyber~Congress 2`](https://github.com/cybercongress/congress), [`cyber~Congress 3`](https://cybercongress.ai/) 
+- [`cyber~Congress 1`](https://mainnet.aragon.org/#/cybercongress/0x606d9835c14617458e48530b1ed4b450c7ed9386/), [`cyber~Congress 2`](https://github.com/cybercongress/congress), [`cyber~Congress 3`](https://cybercongress.ai/) 
