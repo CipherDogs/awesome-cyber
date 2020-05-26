@@ -10,6 +10,7 @@ Pull requests are welcome!
 - [Social links](#social)
 - [Search](#search)
 - [Clients](#clients)
+- [Crawlers](#crawlers)
 - [Extensions](#extensions)
 - [DAOs](#DAOs)
 
@@ -47,6 +48,11 @@ Pull requests are welcome!
 
 - [`cyb`](https://cyb.ai/) - web3 Browser
 - [`cyberd CLI`](https://github.com/cybercongress/go-cyber/blob/master/docs/ultimate-commands-guide.md) - CLI client
+
+## Crawlers
+
+- [`ArXiv.org`](https://github.com/SaveTheAles/arxiv_crawler) - by Savetheales
+- [`Wikipedia crawler`](https://github.com/cybercongress/crawler) - by cyberCongress (archived)
 
 ## Extensions
 
