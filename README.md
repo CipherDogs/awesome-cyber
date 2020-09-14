@@ -12,7 +12,8 @@ Pull requests are welcome!
 - [Clients](#clients)
 - [Crawlers](#crawlers)
 - [Extensions](#extensions)
-- [DAOs](#DAOs)
+- [DAOs](#daos)
+- [Frameworks and tools](#frameworks-and-tools)
 
 ## Official
 
@@ -63,4 +64,12 @@ Pull requests are welcome!
 ## DAOs
 
 - [`cyber~Foundation 1`](https://mainnet.aragon.org/#/eulerfoundation/0xfc3849b9711f69ddb677facff0cd6755a981a1f0/), [`cyber~Foundation 2`](https://github.com/cybercongress/cyber-foundation)
-- [`cyber~Congress 1`](https://mainnet.aragon.org/#/cybercongress/0x606d9835c14617458e48530b1ed4b450c7ed9386/), [`cyber~Congress 2`](https://github.com/cybercongress/congress), [`cyber~Congress 3`](https://cybercongress.ai/) 
+- [`cyber~Congress 1`](https://mainnet.aragon.org/#/cybercongress/0x606d9835c14617458e48530b1ed4b450c7ed9386/), [`cyber~Congress 2`](https://github.com/cybercongress/congress), [`cyber~Congress 3`](https://cybercongress.ai/)
+
+## Frameworks and tools
+
+#### Python
+- [`cyberpy`](https://github.com/SaveTheAles/cyberpy)
+
+#### Rust
+- [`cyber-rs`](https://github.com/CipherDogs/cyber-rs)
