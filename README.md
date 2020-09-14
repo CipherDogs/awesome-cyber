@@ -69,7 +69,7 @@ Pull requests are welcome!
 ## Frameworks and tools
 
 #### Python
-- [`cyberpy`](https://github.com/SaveTheAles/cyberpy)
+- [`cyberpy`](https://github.com/SaveTheAles/cyberpy) - Python tools for Cyber wallet management and offline transaction signing
 
 #### Rust
-- [`cyber-rs`](https://github.com/CipherDogs/cyber-rs)
+- [`cyber-rs`](https://github.com/CipherDogs/cyber-rs) - Library for cyber blockchain
