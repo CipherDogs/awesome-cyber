@@ -73,3 +73,4 @@ Pull requests are welcome!
 
 #### Rust
 - [`cyber-rs`](https://github.com/CipherDogs/cyber-rs) - Library for cyber blockchain
+- [`cyber-wallet-generator`](https://github.com/CipherDogs/cyber-wallet-generator) - Address generator in Rust for cyber blockchain
