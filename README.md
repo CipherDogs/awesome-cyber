@@ -49,6 +49,7 @@ Pull requests are welcome!
 
 - [`cyb`](https://cyb.ai/) - web3 Browser
 - [`cyberd CLI`](https://github.com/cybercongress/go-cyber/blob/master/docs/ultimate-commands-guide.md) - CLI client
+- [`dpos.space/cyber`](https://dpos.space/cyber) - Services for Cyber blockchain: accounts, profiles, wallet, random generator, sender to ipfs, linker.
 
 ## Crawlers
 
@@ -77,3 +78,6 @@ Pull requests are welcome!
 
 #### Javascript
 - [`cyberjs`](https://github.com/CipherDogs/cyberjs) - Sandbox js library for cyber
+
+#### PHP
+- [`dpos.space/cyber`](https://github.com/denis-skripnik/dpos.space) - Services for cyber
