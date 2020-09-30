@@ -79,5 +79,5 @@ Pull requests are welcome!
 #### Javascript
 - [`cyberjs`](https://github.com/CipherDogs/cyberjs) - Sandbox js library for cyber
 
-#### Php
-- [`dpos.space/cyber`](https://github.com/denis-skripnik/dpos.space) - Sandbox js library for cyber
+#### PHP
+- [`dpos.space/cyber`](https://github.com/denis-skripnik/dpos.space) - Services for cyber
