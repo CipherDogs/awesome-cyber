@@ -48,6 +48,7 @@ Pull requests are welcome!
 ## Clients
 
 - [`cyb`](https://cyb.ai/) - web3 Browser
+- [`cyberdBot`](https://t.me/cyberdbot) - cyberdBot in Telegram
 - [`cyberd CLI`](https://github.com/cybercongress/go-cyber/blob/master/docs/ultimate-commands-guide.md) - CLI client
 - [`dpos.space/cyber`](https://dpos.space/cyber) - Services for Cyber blockchain: accounts, profiles, wallet, random generator, sender to ipfs, linker.
 
