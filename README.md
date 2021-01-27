@@ -1,4 +1,4 @@
-# cyber~Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome cyber [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 cyber is a brand new protocol (a procedure that helps computers to do things in a certain way) for adding and searching information onto a knowledge graph (a compilation of facts about something that provides meaning to the user). And rank this information. In other words, it's a decentralized google.
 
@@ -6,7 +6,7 @@ This protocol exists thanks to such technology as blockchain and what is referre
 
 ## Contents
 
-- [Official resource](#official)
+- [Official](#official)
 - [Social links](#social)
 - [Search](#search)
 - [Clients](#clients)
