@@ -52,6 +52,7 @@ This protocol exists thanks to such technology as blockchain and what is referre
 - [cyberdBot](https://t.me/cyberdbot) - cyberdBot in Telegram.
 - [cyberd CLI](https://github.com/cybercongress/go-cyber/blob/master/docs/ultimate-commands-guide.md) - CLI client.
 - [dpos.space/cyber](https://dpos.space/cyber) - Services for Cyber blockchain: accounts, profiles, wallet, random generator, sender to ipfs, linker.
+- [Keplr](https://keplr.app/) - Feature-packed, versatile wallet for Cosmos blockchains and more.
 
 ## Crawlers
 
@@ -63,6 +64,7 @@ This protocol exists thanks to such technology as blockchain and what is referre
 - [cyb~Virus Chrome](https://github.com/cybercongress/cyb-virus) - The virus is a Chrome extension made to #fuckgoogle right in Chrome.
 - [cyb~Virus Firefox](https://github.com/CipherDogs/cyb-virus) - The virus is a Firefox extension made to #fuckgoogle right in Firefox.
 - [cyb~Snap](https://github.com/cybercongress/cyb-snap) - cyb~Snap will allow integrations for almost all Cosmos based chains and act as a multi-chain wallet, just like metamask is for ETH.
+- [Keplr](https://github.com/chainapsis/keplr-extension) - Keplr is a browser extension wallet for the Inter blockchain ecosystem.
 
 ## DAOs
 
@@ -80,9 +82,11 @@ This protocol exists thanks to such technology as blockchain and what is referre
 #### Rust
 - [cyber-rs](https://github.com/CipherDogs/cyber-rs) - Library for cyber blockchain.
 - [cyber-wallet-generator](https://github.com/CipherDogs/cyber-wallet-generator) - Address generator in Rust for cyber blockchain.
+- [cosmos-rust](https://github.com/cosmos/cosmos-rust) - This is a place for commonly shared rust resources related to the Cosmos ecosystem.
 
 #### Javascript
 - [cyberjs](https://github.com/CipherDogs/cyberjs) - Sandbox js library for cyber.
+- [cosmosjs](https://github.com/chainapsis/cosmosjs) - Through this library, blockchains that use cosmos-sdk, as well as Cosmos hub (Gaia), can create their own API for JavaScript client side.
 
 #### PHP
 - [dpos.space/cyber](https://github.com/denis-skripnik/dpos.space) - Services for cyber.
